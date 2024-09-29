@@ -26,4 +26,5 @@ public partial class Ticket
     public virtual TicketType? IdTicketTypeNavigation { get; set; }
 
     public virtual Tour? IdToursNavigation { get; set; }
+
 }
